@@ -1,0 +1,324 @@
+﻿{
+   "torso":[
+      {
+         "GXT":"TAT_SM_000",
+         "Name_EN":"Bless The Dead",
+         "Name_RU":"Благословенны мертвецы",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_000_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_000_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":11270
+      },
+      {
+         "GXT":"TAT_SM_002",
+         "Name_EN":"Dead Lies",
+         "Name_RU":"Мертвецы не лгут",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_002_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_002_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":12430
+      },
+      {
+         "GXT":"TAT_SM_003",
+         "Name_EN":"Give Nothing Back",
+         "Name_RU":"Не отдавай ничего",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_003_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_003_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":13090
+      },
+      {
+         "GXT":"TAT_SM_006",
+         "Name_EN":"Never Surrender",
+         "Name_RU":"Никогда не сдавайся",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_006_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_006_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":9475
+      },
+      {
+         "GXT":"TAT_SM_007",
+         "Name_EN":"No Honor",
+         "Name_RU":"Бесчестный",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_007_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_007_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":8525
+      },
+      {
+         "GXT":"TAT_SM_009",
+         "Name_EN":"Tall Ship Conflict",
+         "Name_RU":"Парусный конфликт",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_009_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_009_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":16625
+      },
+      {
+         "GXT":"TAT_SM_010",
+         "Name_EN":"See You In Hell",
+         "Name_RU":"До встречи в аду",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_010_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_010_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":12815
+      },
+      {
+         "GXT":"TAT_SM_013",
+         "Name_EN":"Torn Wings",
+         "Name_RU":"Оторванные крылья",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_013_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_013_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":10540
+      },
+      {
+         "GXT":"TAT_SM_015",
+         "Name_EN":"Jolly Roger",
+         "Name_RU":"Веселый Роджер",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_015_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_015_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":9765
+      },
+      {
+         "GXT":"TAT_SM_016",
+         "Name_EN":"Skull Compass",
+         "Name_RU":"Череп-компас",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_016_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_016_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":13790
+      },
+      {
+         "GXT":"TAT_SM_017",
+         "Name_EN":"Framed Tall Ship",
+         "Name_RU":"Парусник в рамке",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_017_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_017_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":18850
+      },
+      {
+         "GXT":"TAT_SM_018",
+         "Name_EN":"Finders Keepers",
+         "Name_RU":"Кто нашел, тот и владелец",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_018_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_018_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":16990
+      },
+      {
+         "GXT":"TAT_SM_019",
+         "Name_EN":"Lost At Sea",
+         "Name_RU":"Потерявшийся в море",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_019_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_019_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":11105
+      },
+      {
+         "GXT":"TAT_SM_021",
+         "Name_EN":"Dead Tales",
+         "Name_RU":"Сказки мертвеца",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_021_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_021_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":14860
+      },
+      {
+         "GXT":"TAT_SM_022",
+         "Name_EN":"X Marks The Spot",
+         "Name_RU":"Клад помечен крестом",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_022_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_022_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":16710
+      },
+      {
+         "GXT":"TAT_SM_024",
+         "Name_EN":"Pirate Captain",
+         "Name_RU":"Капитан пиратов",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_024_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_024_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":18210
+      },
+      {
+         "GXT":"TAT_SM_025",
+         "Name_EN":"Claimed By The Beast",
+         "Name_RU":"В щупальцах чудовища",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_025_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_025_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":17450
+      }
+   ],
+   "rightArm":[
+      {
+         "GXT":"TAT_SM_001",
+         "Name_EN":"Crackshot",
+         "Name_RU":"Снайпер",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_001_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_001_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":10825
+      },
+      {
+         "GXT":"TAT_SM_005",
+         "Name_EN":"Mutiny",
+         "Name_RU":"Бунт",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_005_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_005_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":7920
+      },
+      {
+         "GXT":"TAT_SM_023",
+         "Name_EN":"Stylized Kraken",
+         "Name_RU":"Стилизованный кракен",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_023_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_023_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":14400
+      }
+   ],
+   "leftArm":[
+      {
+         "GXT":"TAT_SM_004",
+         "Name_EN":"Honor",
+         "Name_RU":"Честь",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_004_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_004_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":8150
+      },
+      {
+         "GXT":"TAT_SM_008",
+         "Name_EN":"Horrors Of The Deep",
+         "Name_RU":"Чудовище из глубин",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_008_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_008_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":11045
+      },
+      {
+         "GXT":"TAT_SM_014",
+         "Name_EN":"Mermaid's Curse",
+         "Name_RU":"Проклятие русалки",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_014_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_014_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":8825
+      }
+   ],
+   "head":[
+      {
+         "GXT":"TAT_SM_011",
+         "Name_EN":"Sinner",
+         "Name_RU":"Грешник",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_011_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_011_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_HEAD",
+         "ZoneId":1,
+         "Price":8110
+      },
+      {
+         "GXT":"TAT_SM_012",
+         "Name_EN":"Thief",
+         "Name_RU":"Вор",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_012_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_012_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_HEAD",
+         "ZoneId":1,
+         "Price":10720
+      }
+   ],
+   "rightLeg":[
+      {
+         "GXT":"TAT_SM_020",
+         "Name_EN":"Homeward Bound",
+         "Name_RU":"Курс – домой",
+         "Dictionary":"mpsmuggler_overlays",
+         "HashNameMale":"MP_Smuggler_Tattoo_020_M",
+         "HashNameFemale":"MP_Smuggler_Tattoo_020_F",
+         "Title":"Контрабандисты",
+         "Zone":"ZONE_RIGHT_LEG",
+         "ZoneId":5,
+         "Price":9155
+      }
+   ]
+}

@@ -1,0 +1,216 @@
+﻿{
+   "torso":[
+      {
+         "GXT":"TAT_L2_002",
+         "Name_EN":"The Howler",
+         "Name_RU":"Волчий вой",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_002_M",
+         "HashNameFemale":"MP_LUXE_TAT_002_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":11000
+      },
+      {
+         "GXT":"TAT_L2_012",
+         "Name_EN":"Geometric Galaxy",
+         "Name_RU":"Геометрическая галактика",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_012_M",
+         "HashNameFemale":"MP_LUXE_TAT_012_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":26500
+      },
+      {
+         "GXT":"TAT_L2_022",
+         "Name_EN":"Cloaked Angel",
+         "Name_RU":"Ангел в плаще",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_022_M",
+         "HashNameFemale":"MP_LUXE_TAT_022_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":28500
+      },
+      {
+         "GXT":"TAT_L2_025",
+         "Name_EN":"Reaper Sway",
+         "Name_RU":"Взмах смерти",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_025_M",
+         "HashNameFemale":"MP_LUXE_TAT_025_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":11500
+      },
+      {
+         "GXT":"TAT_L2_027",
+         "Name_EN":"Cobra Dawn",
+         "Name_RU":"Рассвет кобры",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_027_M",
+         "HashNameFemale":"MP_LUXE_TAT_027_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":12750
+      },
+      {
+         "GXT":"TAT_L2_029",
+         "Name_EN":"Geometric Design",
+         "Name_RU":"Геометрический рисунок",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_029_M",
+         "HashNameFemale":"MP_LUXE_TAT_029_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":30000
+      }
+   ],
+   "leftArm":[
+      {
+         "GXT":"TAT_L2_005",
+         "Name_EN":"Fatal Dagger",
+         "Name_RU":"Смертоносный кинжал",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_005_M",
+         "HashNameFemale":"MP_LUXE_TAT_005_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":10250
+      },
+      {
+         "GXT":"TAT_L2_016",
+         "Name_EN":"Egyptian Mural",
+         "Name_RU":"Египетская фреска",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_016_M",
+         "HashNameFemale":"MP_LUXE_TAT_016_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":18600
+      },
+      {
+         "GXT":"TAT_L2_018",
+         "Name_EN":"Divine Goddess",
+         "Name_RU":"Священная богиня",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_018_M",
+         "HashNameFemale":"MP_LUXE_TAT_018_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":23400
+      },
+      {
+         "GXT":"TAT_L2_028",
+         "Name_EN":"Python Skull",
+         "Name_RU":"Череп питона",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_028_M",
+         "HashNameFemale":"MP_LUXE_TAT_028_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":11300
+      },
+      {
+         "GXT":"TAT_L2_031",
+         "Name_EN":"Geometric Design",
+         "Name_RU":"Геометрический рисунок",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_031_M",
+         "HashNameFemale":"MP_LUXE_TAT_031_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":0
+      }
+   ],
+   "rightArm":[
+      {
+         "GXT":"TAT_L2_010",
+         "Name_EN":"Intrometric",
+         "Name_RU":"Intrometric",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_010_M",
+         "HashNameFemale":"MP_LUXE_TAT_010_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":14650
+      },
+      {
+         "GXT":"TAT_L2_017",
+         "Name_EN":"Heavenly Deity",
+         "Name_RU":"Небесное божество",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_017_M",
+         "HashNameFemale":"MP_LUXE_TAT_017_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":21550
+      },
+      {
+         "GXT":"TAT_L2_026",
+         "Name_EN":"Floral Print",
+         "Name_RU":"Цветочный рисунок",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_026_M",
+         "HashNameFemale":"MP_LUXE_TAT_026_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":14700
+      },
+      {
+         "GXT":"TAT_L2_030",
+         "Name_EN":"Geometric Design",
+         "Name_RU":"Геометрический рисунок",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_030_M",
+         "HashNameFemale":"MP_LUXE_TAT_030_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":0
+      }
+   ],
+   "leftLeg":[
+      {
+         "GXT":"TAT_L2_011",
+         "Name_EN":"Cross of Roses",
+         "Name_RU":"Крест из роз",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_011_M",
+         "HashNameFemale":"MP_LUXE_TAT_011_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_LEFT_LEG",
+         "ZoneId":4,
+         "Price":13250
+      }
+   ],
+   "rightLeg":[
+      {
+         "GXT":"TAT_L2_023",
+         "Name_EN":"Starmetric",
+         "Name_RU":"Starmetric",
+         "Dictionary":"mpluxe2_overlays",
+         "HashNameMale":"MP_LUXE_TAT_023_M",
+         "HashNameFemale":"MP_LUXE_TAT_023_F",
+         "Title":"Ночная жизнь",
+         "Zone":"ZONE_RIGHT_LEG",
+         "ZoneId":5,
+         "Price":15600
+      }
+   ]
+}

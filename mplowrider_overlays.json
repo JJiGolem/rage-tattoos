@@ -1,0 +1,216 @@
+﻿{
+   "torso":[
+      {
+         "GXT":"TAT_S1_001",
+         "Name_EN":"King Fight",
+         "Name_RU":"Король воинов",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_001_M",
+         "HashNameFemale":"MP_LR_Tat_001_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":6100
+      },
+      {
+         "GXT":"TAT_S1_002",
+         "Name_EN":"Holy Mary",
+         "Name_RU":"Дева Мария",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_002_M",
+         "HashNameFemale":"MP_LR_Tat_002_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":10250
+      },
+      {
+         "GXT":"TAT_S1_004",
+         "Name_EN":"Gun Mic",
+         "Name_RU":"Пушка",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_004_M",
+         "HashNameFemale":"MP_LR_Tat_004_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":3500
+      },
+      {
+         "GXT":"TAT_S1_009",
+         "Name_EN":"Amazon",
+         "Name_RU":"Амазонка",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_009_M",
+         "HashNameFemale":"MP_LR_Tat_009_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":9500
+      },
+      {
+         "GXT":"TAT_S1_010",
+         "Name_EN":"Bad Angel",
+         "Name_RU":"Злой ангел",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_010_M",
+         "HashNameFemale":"MP_LR_Tat_010_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":16500
+      },
+      {
+         "GXT":"TAT_S1_013",
+         "Name_EN":"Love Gamble",
+         "Name_RU":"Люблю азарт",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_013_M",
+         "HashNameFemale":"MP_LR_Tat_013_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":8300
+      },
+      {
+         "GXT":"TAT_S1_014",
+         "Name_EN":"Love is Blind",
+         "Name_RU":"Любовь слепа",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_014_M",
+         "HashNameFemale":"MP_LR_Tat_014_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":17750
+      },
+      {
+         "GXT":"TAT_S1_021",
+         "Name_EN":"Sad Angel",
+         "Name_RU":"Грустный ангел",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_021_M",
+         "HashNameFemale":"MP_LR_Tat_021_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":15000
+      },
+      {
+         "GXT":"TAT_S1_026",
+         "Name_EN":"Royal Takeover",
+         "Name_RU":"Королевский захват",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_026_M",
+         "HashNameFemale":"MP_LR_Tat_026_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":7400
+      }
+   ],
+   "leftArm":[
+      {
+         "GXT":"TAT_S1_005",
+         "Name_EN":"No Evil",
+         "Name_RU":"Нет зла",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_005_M",
+         "HashNameFemale":"MP_LR_Tat_005_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":5900
+      },
+      {
+         "GXT":"TAT_S1_027",
+         "Name_EN":"Los Santos Life",
+         "Name_RU":"Жизнь в Лос-Сантосе",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_027_M",
+         "HashNameFemale":"MP_LR_Tat_027_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":7800
+      },
+      {
+         "GXT":"TAT_S1_033",
+         "Name_EN":"City Sorrow",
+         "Name_RU":"Городская печаль",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_033_M",
+         "HashNameFemale":"MP_LR_Tat_033_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":10000
+      }
+   ],
+   "leftLeg":[
+      {
+         "GXT":"TAT_S1_007",
+         "Name_EN":"LS Serpent",
+         "Name_RU":"Змей из ЛС",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_007_M",
+         "HashNameFemale":"MP_LR_Tat_007_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_LEFT_LEG",
+         "ZoneId":4,
+         "Price":5500
+      },
+      {
+         "GXT":"TAT_S1_020",
+         "Name_EN":"Presidents",
+         "Name_RU":"Президенты",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_020_M",
+         "HashNameFemale":"MP_LR_Tat_020_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_LEFT_LEG",
+         "ZoneId":4,
+         "Price":6850
+      }
+   ],
+   "rightArm":[
+      {
+         "GXT":"TAT_S1_015",
+         "Name_EN":"Seductress",
+         "Name_RU":"Соблазнительница",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_015_M",
+         "HashNameFemale":"MP_LR_Tat_015_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":6150
+      }
+   ],
+   "rightLeg":[
+      {
+         "GXT":"TAT_S1_017",
+         "Name_EN":"Ink Me",
+         "Name_RU":"Сделай мне тату",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_017_M",
+         "HashNameFemale":"MP_LR_Tat_017_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_RIGHT_LEG",
+         "ZoneId":5,
+         "Price":7700
+      },
+      {
+         "GXT":"TAT_S1_023",
+         "Name_EN":"Dance of Hearts",
+         "Name_RU":"Танец сердец",
+         "Dictionary":"mplowrider_overlays",
+         "HashNameMale":"MP_LR_Tat_023_M",
+         "HashNameFemale":"MP_LR_Tat_023_F",
+         "Title":"Лоурайдеры",
+         "Zone":"ZONE_RIGHT_LEG",
+         "ZoneId":5,
+         "Price":6500
+      }
+   ]
+}

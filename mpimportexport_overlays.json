@@ -1,0 +1,152 @@
+﻿{
+   "torso":[
+      {
+         "GXT":"TAT_IE_000",
+         "Name_EN":"Block Back",
+         "Name_RU":"Шестеренки",
+         "Dictionary":"mpimportexport_overlays",
+         "HashNameMale":"MP_MP_ImportExport_Tat_000_M",
+         "HashNameFemale":"MP_MP_ImportExport_Tat_000_F",
+         "Title":"Импорт/Экспорт",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":13780
+      },
+      {
+         "GXT":"TAT_IE_001",
+         "Name_EN":"Power Plant",
+         "Name_RU":"Силовая установка",
+         "Dictionary":"mpimportexport_overlays",
+         "HashNameMale":"MP_MP_ImportExport_Tat_001_M",
+         "HashNameFemale":"MP_MP_ImportExport_Tat_001_F",
+         "Title":"Импорт/Экспорт",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":12900
+      },
+      {
+         "GXT":"TAT_IE_002",
+         "Name_EN":"Tuned to Death",
+         "Name_RU":"На волне смерти",
+         "Dictionary":"mpimportexport_overlays",
+         "HashNameMale":"MP_MP_ImportExport_Tat_002_M",
+         "HashNameFemale":"MP_MP_ImportExport_Tat_002_F",
+         "Title":"Импорт/Экспорт",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":12120
+      },
+      {
+         "GXT":"TAT_IE_009",
+         "Name_EN":"Serpents of Destruction",
+         "Name_RU":"Адские змеи",
+         "Dictionary":"mpimportexport_overlays",
+         "HashNameMale":"MP_MP_ImportExport_Tat_009_M",
+         "HashNameFemale":"MP_MP_ImportExport_Tat_009_F",
+         "Title":"Импорт/Экспорт",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":16500
+      },
+      {
+         "GXT":"TAT_IE_010",
+         "Name_EN":"Take the Wheel",
+         "Name_RU":"Садись за руль",
+         "Dictionary":"mpimportexport_overlays",
+         "HashNameMale":"MP_MP_ImportExport_Tat_010_M",
+         "HashNameFemale":"MP_MP_ImportExport_Tat_010_F",
+         "Title":"Импорт/Экспорт",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":14235
+      },
+      {
+         "GXT":"TAT_IE_011",
+         "Name_EN":"Talk Shit Get Hit",
+         "Name_RU":"Не вякай",
+         "Dictionary":"mpimportexport_overlays",
+         "HashNameMale":"MP_MP_ImportExport_Tat_011_M",
+         "HashNameFemale":"MP_MP_ImportExport_Tat_011_F",
+         "Title":"Импорт/Экспорт",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":15985
+      }
+   ],
+   "rightArm":[
+      {
+         "GXT":"TAT_IE_003",
+         "Name_EN":"Mechanical Sleeve",
+         "Name_RU":"Механический рукав",
+         "Dictionary":"mpimportexport_overlays",
+         "HashNameMale":"MP_MP_ImportExport_Tat_003_M",
+         "HashNameFemale":"MP_MP_ImportExport_Tat_003_F",
+         "Title":"Импорт/Экспорт",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":17200
+      },
+      {
+         "GXT":"TAT_IE_005",
+         "Name_EN":"Dialed In",
+         "Name_RU":"Отточенный",
+         "Dictionary":"mpimportexport_overlays",
+         "HashNameMale":"MP_MP_ImportExport_Tat_005_M",
+         "HashNameFemale":"MP_MP_ImportExport_Tat_005_F",
+         "Title":"Импорт/Экспорт",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":18615
+      },
+      {
+         "GXT":"TAT_IE_006",
+         "Name_EN":"Engulfed Block",
+         "Name_RU":"В огне",
+         "Dictionary":"mpimportexport_overlays",
+         "HashNameMale":"MP_MP_ImportExport_Tat_006_M",
+         "HashNameFemale":"MP_MP_ImportExport_Tat_006_F",
+         "Title":"Импорт/Экспорт",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":15720
+      },
+      {
+         "GXT":"TAT_IE_007",
+         "Name_EN":"Drive Forever",
+         "Name_RU":"Вечный путь",
+         "Dictionary":"mpimportexport_overlays",
+         "HashNameMale":"MP_MP_ImportExport_Tat_007_M",
+         "HashNameFemale":"MP_MP_ImportExport_Tat_007_F",
+         "Title":"Импорт/Экспорт",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":16685
+      }
+   ],
+   "leftArm":[
+      {
+         "GXT":"TAT_IE_004",
+         "Name_EN":"Piston Sleeve",
+         "Name_RU":"Рукав на поршнях",
+         "Dictionary":"mpimportexport_overlays",
+         "HashNameMale":"MP_MP_ImportExport_Tat_004_M",
+         "HashNameFemale":"MP_MP_ImportExport_Tat_004_F",
+         "Title":"Импорт/Экспорт",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":16350
+      },
+      {
+         "GXT":"TAT_IE_008",
+         "Name_EN":"Scarlett",
+         "Name_RU":"Скарлетт",
+         "Dictionary":"mpimportexport_overlays",
+         "HashNameMale":"MP_MP_ImportExport_Tat_008_M",
+         "HashNameFemale":"MP_MP_ImportExport_Tat_008_F",
+         "Title":"Импорт/Экспорт",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":19900
+      }
+   ]
+}

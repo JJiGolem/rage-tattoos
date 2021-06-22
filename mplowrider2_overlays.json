@@ -1,0 +1,204 @@
+﻿{
+   "torso":[
+      {
+         "GXT":"TAT_S2_000",
+         "Name_EN":"SA Assault",
+         "Name_RU":"Атака SA",
+         "Dictionary":"mplowrider2_overlays",
+         "HashNameMale":"MP_LR_Tat_000_M",
+         "HashNameFemale":"MP_LR_Tat_000_F",
+         "Title":"Лоурайдеры: классика на заказ",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":19000
+      },
+      {
+         "GXT":"TAT_S2_008",
+         "Name_EN":"Love the Game",
+         "Name_RU":"Любовь к игре",
+         "Dictionary":"mplowrider2_overlays",
+         "HashNameMale":"MP_LR_Tat_008_M",
+         "HashNameFemale":"MP_LR_Tat_008_F",
+         "Title":"Лоурайдеры: классика на заказ",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":18750
+      },
+      {
+         "GXT":"TAT_S2_011",
+         "Name_EN":"Lady Liberty",
+         "Name_RU":"Леди свобода",
+         "Dictionary":"mplowrider2_overlays",
+         "HashNameMale":"MP_LR_Tat_011_M",
+         "HashNameFemale":"MP_LR_Tat_011_F",
+         "Title":"Лоурайдеры: классика на заказ",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":8000
+      },
+      {
+         "GXT":"TAT_S2_012",
+         "Name_EN":"Royal Kiss",
+         "Name_RU":"Королевский поцелуй",
+         "Dictionary":"mplowrider2_overlays",
+         "HashNameMale":"MP_LR_Tat_012_M",
+         "HashNameFemale":"MP_LR_Tat_012_F",
+         "Title":"Лоурайдеры: классика на заказ",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":7650
+      },
+      {
+         "GXT":"TAT_S2_016",
+         "Name_EN":"Two Face",
+         "Name_RU":"С двумя лицами",
+         "Dictionary":"mplowrider2_overlays",
+         "HashNameMale":"MP_LR_Tat_016_M",
+         "HashNameFemale":"MP_LR_Tat_016_F",
+         "Title":"Лоурайдеры: классика на заказ",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":6400
+      },
+      {
+         "GXT":"TAT_S2_019",
+         "Name_EN":"Death Behind",
+         "Name_RU":"Смерть за спиной",
+         "Dictionary":"mplowrider2_overlays",
+         "HashNameMale":"MP_LR_Tat_019_M",
+         "HashNameFemale":"MP_LR_Tat_019_F",
+         "Title":"Лоурайдеры: классика на заказ",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":9750
+      },
+      {
+         "GXT":"TAT_S2_031",
+         "Name_EN":"Dead Pretty",
+         "Name_RU":"Красотка смерть",
+         "Dictionary":"mplowrider2_overlays",
+         "HashNameMale":"MP_LR_Tat_031_M",
+         "HashNameFemale":"MP_LR_Tat_031_F",
+         "Title":"Лоурайдеры: классика на заказ",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":16500
+      },
+      {
+         "GXT":"TAT_S2_032",
+         "Name_EN":"Reign Over",
+         "Name_RU":"Конец правления",
+         "Dictionary":"mplowrider2_overlays",
+         "HashNameMale":"MP_LR_Tat_032_M",
+         "HashNameFemale":"MP_LR_Tat_032_F",
+         "Title":"Лоурайдеры: классика на заказ",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":18500
+      }
+   ],
+   "rightArm":[
+      {
+         "GXT":"TAT_S2_003",
+         "Name_EN":"Lady Vamp",
+         "Name_RU":"Леди-вампир",
+         "Dictionary":"mplowrider2_overlays",
+         "HashNameMale":"MP_LR_Tat_003_M",
+         "HashNameFemale":"MP_LR_Tat_003_F",
+         "Title":"Лоурайдеры: классика на заказ",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":5950
+      },
+      {
+         "GXT":"TAT_S2_028",
+         "Name_EN":"Loving Los Muertos",
+         "Name_RU":"Люблю Los Muertos",
+         "Dictionary":"mplowrider2_overlays",
+         "HashNameMale":"MP_LR_Tat_028_M",
+         "HashNameFemale":"MP_LR_Tat_028_F",
+         "Title":"Лоурайдеры: классика на заказ",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":8800
+      },
+      {
+         "GXT":"TAT_S2_035",
+         "Name_EN":"Black Tears",
+         "Name_RU":"Черные слезы",
+         "Dictionary":"mplowrider2_overlays",
+         "HashNameMale":"MP_LR_Tat_035_M",
+         "HashNameFemale":"MP_LR_Tat_035_F",
+         "Title":"Лоурайдеры: классика на заказ",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":8250
+      }
+   ],
+   "leftArm":[
+      {
+         "GXT":"TAT_S2_006",
+         "Name_EN":"Love Hustle",
+         "Name_RU":"Любовные заботы",
+         "Dictionary":"mplowrider2_overlays",
+         "HashNameMale":"MP_LR_Tat_006_M",
+         "HashNameFemale":"MP_LR_Tat_006_F",
+         "Title":"Лоурайдеры: классика на заказ",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":7450
+      },
+      {
+         "GXT":"TAT_S2_018",
+         "Name_EN":"Skeleton Party",
+         "Name_RU":"Вечеринка скелетов",
+         "Dictionary":"mplowrider2_overlays",
+         "HashNameMale":"MP_LR_Tat_018_M",
+         "HashNameFemale":"MP_LR_Tat_018_F",
+         "Title":"Лоурайдеры: классика на заказ",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":11000
+      },
+      {
+         "GXT":"TAT_S2_022",
+         "Name_EN":"My Crazy Life",
+         "Name_RU":"Моя безумная жизнь",
+         "Dictionary":"mplowrider2_overlays",
+         "HashNameMale":"MP_LR_Tat_022_M",
+         "HashNameFemale":"MP_LR_Tat_022_F",
+         "Title":"Лоурайдеры: классика на заказ",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":7350
+      }
+   ],
+   "leftLeg":[
+      {
+         "GXT":"TAT_S2_029",
+         "Name_EN":"Death Us Do Part",
+         "Name_RU":"Любовь до гроба",
+         "Dictionary":"mplowrider2_overlays",
+         "HashNameMale":"MP_LR_Tat_029_M",
+         "HashNameFemale":"MP_LR_Tat_029_F",
+         "Title":"Лоурайдеры: классика на заказ",
+         "Zone":"ZONE_LEFT_LEG",
+         "ZoneId":4,
+         "Price":6250
+      }
+   ],
+   "rightLeg":[
+      {
+         "GXT":"TAT_S2_030",
+         "Name_EN":"San Andreas Prayer",
+         "Name_RU":"Молитва San Andreas",
+         "Dictionary":"mplowrider2_overlays",
+         "HashNameMale":"MP_LR_Tat_030_M",
+         "HashNameFemale":"MP_LR_Tat_030_F",
+         "Title":"Лоурайдеры: классика на заказ",
+         "Zone":"ZONE_RIGHT_LEG",
+         "ZoneId":5,
+         "Price":8150
+      }
+   ]
+}

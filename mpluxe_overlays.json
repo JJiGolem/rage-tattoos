@@ -1,0 +1,192 @@
+﻿{
+   "leftLeg":[
+      {
+         "GXT":"TAT_LX_000",
+         "Name_EN":"Serpent of Death",
+         "Name_RU":"Змея смерти",
+         "Dictionary":"mpluxe_overlays",
+         "HashNameMale":"MP_LUXE_TAT_000_M",
+         "HashNameFemale":"MP_LUXE_TAT_000_F",
+         "Title":"Грязные деньги",
+         "Zone":"ZONE_LEFT_LEG",
+         "ZoneId":4,
+         "Price":11900
+      }
+   ],
+   "rightLeg":[
+      {
+         "GXT":"TAT_LX_001",
+         "Name_EN":"Elaborate Los Muertos",
+         "Name_RU":"Los Muertos во всей красе",
+         "Dictionary":"mpluxe_overlays",
+         "HashNameMale":"MP_LUXE_TAT_001_M",
+         "HashNameFemale":"MP_LUXE_TAT_001_F",
+         "Title":"Грязные деньги",
+         "Zone":"ZONE_RIGHT_LEG",
+         "ZoneId":5,
+         "Price":14350
+      }
+   ],
+   "torso":[
+      {
+         "GXT":"TAT_LX_003",
+         "Name_EN":"Abstract Skull",
+         "Name_RU":"Абстрактный череп",
+         "Dictionary":"mpluxe_overlays",
+         "HashNameMale":"MP_LUXE_TAT_003_M",
+         "HashNameFemale":"MP_LUXE_TAT_003_F",
+         "Title":"Грязные деньги",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":8350
+      },
+      {
+         "GXT":"TAT_LX_006",
+         "Name_EN":"Adorned Wolf",
+         "Name_RU":"Украшенный волк",
+         "Dictionary":"mpluxe_overlays",
+         "HashNameMale":"MP_LUXE_TAT_006_M",
+         "HashNameFemale":"MP_LUXE_TAT_006_F",
+         "Title":"Грязные деньги",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":25000
+      },
+      {
+         "GXT":"TAT_LX_007",
+         "Name_EN":"Eye of the Griffin",
+         "Name_RU":"Глаз грифона",
+         "Dictionary":"mpluxe_overlays",
+         "HashNameMale":"MP_LUXE_TAT_007_M",
+         "HashNameFemale":"MP_LUXE_TAT_007_F",
+         "Title":"Грязные деньги",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":12450
+      },
+      {
+         "GXT":"TAT_LX_008",
+         "Name_EN":"Flying Eye",
+         "Name_RU":"Летающий глаз",
+         "Dictionary":"mpluxe_overlays",
+         "HashNameMale":"MP_LUXE_TAT_008_M",
+         "HashNameFemale":"MP_LUXE_TAT_008_F",
+         "Title":"Грязные деньги",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":18000
+      },
+      {
+         "GXT":"TAT_LX_014",
+         "Name_EN":"Ancient Queen",
+         "Name_RU":"Древняя королева",
+         "Dictionary":"mpluxe_overlays",
+         "HashNameMale":"MP_LUXE_TAT_014_M",
+         "HashNameFemale":"MP_LUXE_TAT_014_F",
+         "Title":"Грязные деньги",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":18200
+      },
+      {
+         "GXT":"TAT_LX_015",
+         "Name_EN":"Smoking Sisters",
+         "Name_RU":"Сестры-курильщицы",
+         "Dictionary":"mpluxe_overlays",
+         "HashNameMale":"MP_LUXE_TAT_015_M",
+         "HashNameFemale":"MP_LUXE_TAT_015_F",
+         "Title":"Грязные деньги",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":16250
+      },
+      {
+         "GXT":"TAT_LX_024",
+         "Name_EN":"Feather Mural",
+         "Name_RU":"Живопись из перьев",
+         "Dictionary":"mpluxe_overlays",
+         "HashNameMale":"MP_LUXE_TAT_024_M",
+         "HashNameFemale":"MP_LUXE_TAT_024_F",
+         "Title":"Грязные деньги",
+         "Zone":"ZONE_TORSO",
+         "ZoneId":0,
+         "Price":27250
+      }
+   ],
+   "rightArm":[
+      {
+         "GXT":"TAT_LX_004",
+         "Name_EN":"Floral Raven",
+         "Name_RU":"Цветочный ворон",
+         "Dictionary":"mpluxe_overlays",
+         "HashNameMale":"MP_LUXE_TAT_004_M",
+         "HashNameFemale":"MP_LUXE_TAT_004_F",
+         "Title":"Грязные деньги",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":12200
+      },
+      {
+         "GXT":"TAT_LX_013",
+         "Name_EN":"Mermaid Harpist",
+         "Name_RU":"Русалка с арфой",
+         "Dictionary":"mpluxe_overlays",
+         "HashNameMale":"MP_LUXE_TAT_013_M",
+         "HashNameFemale":"MP_LUXE_TAT_013_F",
+         "Title":"Грязные деньги",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":16900
+      },
+      {
+         "GXT":"TAT_LX_019",
+         "Name_EN":"Geisha Bloom",
+         "Name_RU":"Цветущая гейша",
+         "Dictionary":"mpluxe_overlays",
+         "HashNameMale":"MP_LUXE_TAT_019_M",
+         "HashNameFemale":"MP_LUXE_TAT_019_F",
+         "Title":"Грязные деньги",
+         "Zone":"ZONE_RIGHT_ARM",
+         "ZoneId":3,
+         "Price":16850
+      }
+   ],
+   "leftArm":[
+      {
+         "GXT":"TAT_LX_009",
+         "Name_EN":"Floral Symmetry",
+         "Name_RU":"Цветочная симметрия",
+         "Dictionary":"mpluxe_overlays",
+         "HashNameMale":"MP_LUXE_TAT_009_M",
+         "HashNameFemale":"MP_LUXE_TAT_009_F",
+         "Title":"Грязные деньги",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":19150
+      },
+      {
+         "GXT":"TAT_LX_020",
+         "Name_EN":"Archangel & Mary",
+         "Name_RU":"Архангел и Мария",
+         "Dictionary":"mpluxe_overlays",
+         "HashNameMale":"MP_LUXE_TAT_020_M",
+         "HashNameFemale":"MP_LUXE_TAT_020_F",
+         "Title":"Грязные деньги",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":22500
+      },
+      {
+         "GXT":"TAT_LX_021",
+         "Name_EN":"Gabriel",
+         "Name_RU":"Габриэль",
+         "Dictionary":"mpluxe_overlays",
+         "HashNameMale":"MP_LUXE_TAT_021_M",
+         "HashNameFemale":"MP_LUXE_TAT_021_F",
+         "Title":"Грязные деньги",
+         "Zone":"ZONE_LEFT_ARM",
+         "ZoneId":2,
+         "Price":12850
+      }
+   ]
+}
